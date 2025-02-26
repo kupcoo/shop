@@ -1,0 +1,216 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\ajax\libs\jquery\3.7.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://almouttaiheda.click/
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\index.htm
+Content Type: text/html
+
+Uri: https://almouttaiheda.click/images/icons/arrow_right.html
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\images\icons\arrow_right.html
+Content Type: text/html
+
+Uri: https://almouttaiheda.click/views/assets/AllinBreakfastheroimag.jpeg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\AllinBreakfastheroimag.jpeg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/baid.png
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\baid.png
+Content Type: image/png
+
+Uri: https://almouttaiheda.click/views/assets/products/brown.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\products\brown.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/products/offer1.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\products\offer1.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/products/offer3.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\products\offer3.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/products/offer4.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\products\offer4.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/products/offer5.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\products\offer5.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/products/offer6.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\products\offer6.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/products/white.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\products\white.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/products/whole-chicken-1200g.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\products\whole-chicken-1200g.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/source/1dfad5115244e95a.css
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\1dfad5115244e95a.css
+Content Type: text/css
+
+Uri: https://almouttaiheda.click/views/assets/source/492c7471a0968f36.css
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\492c7471a0968f36.css
+Content Type: text/css
+
+Uri: https://almouttaiheda.click/views/assets/source/6c259dbc-b411-4791-b4cf-869c60aaafa7_Promos.webp
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\6c259dbc-b411-4791-b4cf-869c60aaafa7_Promos.webp
+Content Type: image/webp
+
+Uri: https://almouttaiheda.click/views/assets/source/805456a64770896c.css
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\805456a64770896c.css
+Content Type: text/css
+
+Uri: https://almouttaiheda.click/views/assets/source/a63110d3e42e9fde.css
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\a63110d3e42e9fde.css
+Content Type: text/css
+
+Uri: https://almouttaiheda.click/views/assets/source/arrow_left.92b153fa.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\arrow_left.92b153fa.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/arrow_right.5c2803a9.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\arrow_right.5c2803a9.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/b452025c6d3e0707.css
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\b452025c6d3e0707.css
+Content Type: text/css
+
+Uri: https://almouttaiheda.click/views/assets/source/c88f288daa83a311.css
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\c88f288daa83a311.css
+Content Type: text/css
+
+Uri: https://almouttaiheda.click/views/assets/source/carousel_arrow_left.9172eaa1.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\carousel_arrow_left.9172eaa1.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/cart.7c85403f.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\cart.7c85403f.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/chevron-right-secondary.761388d0.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\chevron-right-secondary.761388d0.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/chevron_down_gray.c120c600.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\chevron_down_gray.c120c600.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/cross_modal.f7d09249.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\cross_modal.f7d09249.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/driver-white.39436dda.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\driver-white.39436dda.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/favicon.png
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\favicon.png
+Content Type: image/png
+
+Uri: https://almouttaiheda.click/views/assets/source/fonts/26a46d62cd723877-s.woff2
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\fonts\26a46d62cd723877-s.woff2
+Content Type: font/woff2
+
+Uri: https://almouttaiheda.click/views/assets/source/fonts/55c55f0601d81cf3-s.woff2
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\fonts\55c55f0601d81cf3-s.woff2
+Content Type: font/woff2
+
+Uri: https://almouttaiheda.click/views/assets/source/fonts/581909926a08bbc8-s.woff2
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\fonts\581909926a08bbc8-s.woff2
+Content Type: font/woff2
+
+Uri: https://almouttaiheda.click/views/assets/source/fonts/6d93bde91c0c2823-s.woff2
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\fonts\6d93bde91c0c2823-s.woff2
+Content Type: font/woff2
+
+Uri: https://almouttaiheda.click/views/assets/source/fonts/97e0cb1ae144a2a9-s.woff2
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\fonts\97e0cb1ae144a2a9-s.woff2
+Content Type: font/woff2
+
+Uri: https://almouttaiheda.click/views/assets/source/fonts/a34f9d1faa5f3315-s.p.woff2
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\fonts\a34f9d1faa5f3315-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://almouttaiheda.click/views/assets/source/fonts/df0a9ae256c0569c-s.woff2
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\fonts\df0a9ae256c0569c-s.woff2
+Content Type: font/woff2
+
+Uri: https://almouttaiheda.click/views/assets/source/fonts/fc3d3cf593d6f70f-s.p.woff2
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\fonts\fc3d3cf593d6f70f-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://almouttaiheda.click/views/assets/source/free_delivery.33e8a802.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\free_delivery.33e8a802.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/go_to_checkout.b2db30ab.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\go_to_checkout.b2db30ab.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/home_black.59df37f7.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\home_black.59df37f7.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/jquery-3.5.1.js
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\jquery-3.5.1.js
+Content Type: application/javascript
+
+Uri: https://almouttaiheda.click/views/assets/source/knet.png
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\knet.png
+Content Type: image/png
+
+Uri: https://almouttaiheda.click/views/assets/source/menu.4fcd2317.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\menu.4fcd2317.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/minus.3902b821.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\minus.3902b821.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/nfc2.png
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\nfc2.png
+Content Type: image/png
+
+Uri: https://almouttaiheda.click/views/assets/source/plus.d7f13c1f.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\plus.d7f13c1f.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/search.8dc73f65.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\search.8dc73f65.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/search_white.4bdbfa63.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\search_white.4bdbfa63.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/social_instagram.cf3c4b8c.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\social_instagram.cf3c4b8c.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/star_yellow.3109f807.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\star_yellow.3109f807.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/source/trash_rounded_gray.1c82bd98.svg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\source\trash_rounded_gray.1c82bd98.svg
+Content Type: image/svg+xml
+
+Uri: https://almouttaiheda.click/views/assets/Subcategory_round.png
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\Subcategory_round.png
+Content Type: image/png
+
+Uri: https://almouttaiheda.click/views/assets/tanweh.jpg
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\tanweh.jpg
+Content Type: image/jpeg
+
+Uri: https://almouttaiheda.click/views/assets/uWbHSdjP74.png
+File Name: C:\Downloaded Web Sites\almouttaiheda.click\views\assets\uWbHSdjP74.png
+Content Type: image/png
+
